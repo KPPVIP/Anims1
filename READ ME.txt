@@ -1,0 +1,14 @@
+	<Anim dict="five@nyck" name="five_clip" />
+	<Anim dict="capper@nyck" name="capper_clip" />
+	<Anim dict="pose@nyck" name="pose_clip" />
+	<Anim dict="pose2@nyck" name="pose2_clip" />	
+	<Anim dict="pose3@nyck" name="pose3_clip" />
+	<Anim dict="mafiag@nyck" name="mafiag_clip" />	
+	<Anim dict="15idk@animation" name="15idk_clip" />
+	<Anim dict="bkcr@animation" name="bkcr_clip" />
+	<Anim dict="bhw@animation" name="bhw_clip" />
+	<Anim dict="99mafia@animation" name="99mafia_clip" />
+	<Anim dict="krank@animation" name="krank_clip" />	
+
+
+Emotes made by Nyck#6990
